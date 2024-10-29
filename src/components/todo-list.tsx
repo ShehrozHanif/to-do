@@ -1,6 +1,6 @@
 
 "use client";  // Enable client-side rendering for this component
-import Image from "next/image";
+
 import todo from "../image/to-do.jpg"
 
 
